@@ -21,7 +21,7 @@ Stacks, Queues, Linkedlists, Trees, Graphs etc are all examples of this.
 Stack is an abstract data type with a bounded(predefined) capacity. It is a simple data structure that allows adding and 
 removing elements in a particular order. Every time an element is added, it goes on the top of the stack and the only element
 that can be removed is the element that is at the top of the stack, just like a pile of objects.
-<p align="center"> <img src="stacks.jpeg"/> </p>
+<p align="center"> <img src="stacks.gif"/> </p>
 
 ### Queues
 Queue is also an abstract data type or a linear data structure, just like stack data structure, in which the first element is 
@@ -31,7 +31,7 @@ called as FRONT(also called head).
 The process to add an element into queue is called Enqueue and the process of removal of an element from queue is called Dequeue.
 This makes queue as FIFO(First in First Out) data structure, which means that element inserted first will be removed first.
 
-<p align="center"> <img src="queues.png"/> </p>
+<p align="center"> <img src="queues.gif"/> </p>
 
 ### Linked lists
 Linked List is a very commonly used linear data structure which consists of group of nodes in a sequence.
