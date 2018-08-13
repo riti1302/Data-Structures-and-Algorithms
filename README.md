@@ -15,10 +15,13 @@ Integer, Float, Char, Boolean etc are all examples of this.
 ### Abstract Data Structures
 Stacks, Queues, Linkedlists, Trees, Graphs etc are all examples of this.
 
+<p align="center"> <img src="data_structures.gif"/> </p>
+
 ### Stacks
 Stack is an abstract data type with a bounded(predefined) capacity. It is a simple data structure that allows adding and 
 removing elements in a particular order. Every time an element is added, it goes on the top of the stack and the only element
 that can be removed is the element that is at the top of the stack, just like a pile of objects.
+<p align="center"> <img src="stacks.jpeg"/> </p>
 
 ### Queues
 Queue is also an abstract data type or a linear data structure, just like stack data structure, in which the first element is 
@@ -28,10 +31,14 @@ called as FRONT(also called head).
 The process to add an element into queue is called Enqueue and the process of removal of an element from queue is called Dequeue.
 This makes queue as FIFO(First in First Out) data structure, which means that element inserted first will be removed first.
 
+<p align="center"> <img src="queues.png"/> </p>
+
 ### Linked lists
 Linked List is a very commonly used linear data structure which consists of group of nodes in a sequence.
 Each node holds its own data and the address of the next node hence forming a chain like structure.
 Linked Lists are used to create trees and graphs.
+
+<p align="center"> <img src="linked lists.jpeg"/> </p>
 
 #### Singly linked lists
 ingly linked lists contain nodes which have a data part as well as an address part i.e. next, which points to the next node in the
