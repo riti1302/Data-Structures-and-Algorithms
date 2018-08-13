@@ -10,6 +10,8 @@ Data Structures are classified into two categories:
 ### Primitive Data Structures
 Integer, Float, Char, Boolean etc are all examples of this.
 
+
+
 ### Abstract Data Structures
 Stacks, Queues, Linkedlists, Trees, Graphs etc are all examples of this.
 
@@ -25,3 +27,20 @@ called as FRONT(also called head).
 
 The process to add an element into queue is called Enqueue and the process of removal of an element from queue is called Dequeue.
 This makes queue as FIFO(First in First Out) data structure, which means that element inserted first will be removed first.
+
+### Linked lists
+Linked List is a very commonly used linear data structure which consists of group of nodes in a sequence.
+Each node holds its own data and the address of the next node hence forming a chain like structure.
+Linked Lists are used to create trees and graphs.
+
+#### Singly linked lists
+ingly linked lists contain nodes which have a data part as well as an address part i.e. next, which points to the next node in the
+sequence of nodes.
+The operations we can perform on singly linked lists are insertion, deletion and traversal.
+
+#### Doubly linked lists
+In a doubly linked list, each node contains a data part and two addresses, one for the previous node and one for the next 
+node.
+
+#### Circular linked lists
+In circular linked list the last node of the list holds the address of the first node hence forming a circular chain.
